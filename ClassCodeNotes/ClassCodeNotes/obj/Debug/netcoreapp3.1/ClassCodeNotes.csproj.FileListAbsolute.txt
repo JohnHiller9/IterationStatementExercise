@@ -1,0 +1,12 @@
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/bin/Debug/netcoreapp3.1/ClassCodeNotes.deps.json
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/bin/Debug/netcoreapp3.1/ClassCodeNotes.runtimeconfig.json
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/bin/Debug/netcoreapp3.1/ClassCodeNotes.runtimeconfig.dev.json
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/bin/Debug/netcoreapp3.1/ClassCodeNotes.dll
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/bin/Debug/netcoreapp3.1/ClassCodeNotes.pdb
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/obj/Debug/netcoreapp3.1/ClassCodeNotes.csprojAssemblyReference.cache
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/obj/Debug/netcoreapp3.1/ClassCodeNotes.AssemblyInfoInputs.cache
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/obj/Debug/netcoreapp3.1/ClassCodeNotes.AssemblyInfo.cs
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/obj/Debug/netcoreapp3.1/ClassCodeNotes.csproj.CoreCompileInputs.cache
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/obj/Debug/netcoreapp3.1/ClassCodeNotes.dll
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/obj/Debug/netcoreapp3.1/ClassCodeNotes.pdb
+/Users/johnhiller/repos/ClassCodeNotes/ClassCodeNotes/obj/Debug/netcoreapp3.1/ClassCodeNotes.genruntimeconfig.cache

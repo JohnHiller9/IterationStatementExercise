@@ -1,0 +1,12 @@
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.deps.json
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.runtimeconfig.json
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.runtimeconfig.dev.json
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.dll
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.pdb
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.csprojAssemblyReference.cache
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.AssemblyInfoInputs.cache
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.AssemblyInfo.cs
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.dll
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.pdb
+/Users/johnhiller/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.genruntimeconfig.cache

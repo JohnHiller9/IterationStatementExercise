@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SelectionStatementsNotes6_14_21/1.0.0": {
+        "runtime": {
+          "SelectionStatementsNotes6_14_21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SelectionStatementsNotes6_14_21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
