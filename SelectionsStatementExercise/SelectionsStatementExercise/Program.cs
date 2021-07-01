@@ -6,42 +6,68 @@ namespace SelectionsStatementExercise
     {
         static void Main(string[] args)
         {
+            //Guessing Game -----
             Console.WriteLine("Try to guess my favorite number.");
+            Console.WriteLine("What is the upper limit of the range of numbers?");
 
             var userResponse = Console.ReadLine();
             var upperLimit = int.Parse(userResponse);
-
             var random = new Random();
             var number = random.Next(1, upperLimit);
-            
+
+            Console.WriteLine("Input your guess");
+            Console.WriteLine("HINT - You only have 1 guess");
             var guess = int.Parse(Console.ReadLine());
-            //my section
-            #region
-            
-            var reply= Console.ReadLine();
 
-            if (guess > 9)
+            if (guess > number)
             {
-                Console.WriteLine("Nuh-uh. (HINT: You're too high)");
+                Console.WriteLine("Too high");
             }
-        
-            if (guess < 9)
+            else if (guess < number)
             {
-                Console.WriteLine("Nope. (HINT: You're too low");
+                Console.WriteLine("Too low.");
             }
-
-            if (guess < 0)
+            else if (guess < 0)
             {
-                Console.WriteLine("Eh, nevermind.");
+                Console.WriteLine("Nevermind.");
             }
-
             else
             {
-                Console.WriteLine("BINGO!!! How did you know?");
+                Console.WriteLine("Correct!");
             }
 
-               
-            #endregion
+
+            Console.WriteLine("Here, I have another question for you:");
+
+
+            //Swicth/Case Statement -----
+            Console.WriteLine("Hello! What is your favorite school subject?");
+
+            var subject = Console.ReadLine();
+
+            switch (subject)
+            {
+                case "science":
+                    Console.WriteLine("Science is a good choice.");
+                    break;
+                case "math":
+                    Console.WriteLine("As a computer, I prefer math myself.");
+                    break;
+                case "history":
+                    Console.WriteLine("I like history too, I just always forget it.");
+                    break;
+                case "gym":
+                    Console.WriteLine("Gym class can be pretty fun.");
+                    break;
+                case "art":
+                    Console.WriteLine("Art... sorry, I just don't get it.");
+                    break;
+                default:
+                    Console.WriteLine("Haha trick question! Everyone knows the best subject is recess!");
+                    break;
+
+            }
+
         }
     }
 }

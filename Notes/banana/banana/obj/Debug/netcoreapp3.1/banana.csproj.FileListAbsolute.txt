@@ -1,0 +1,12 @@
+/Users/johnhiller/repos/banana/banana/bin/Debug/netcoreapp3.1/banana.deps.json
+/Users/johnhiller/repos/banana/banana/bin/Debug/netcoreapp3.1/banana.runtimeconfig.json
+/Users/johnhiller/repos/banana/banana/bin/Debug/netcoreapp3.1/banana.runtimeconfig.dev.json
+/Users/johnhiller/repos/banana/banana/bin/Debug/netcoreapp3.1/banana.dll
+/Users/johnhiller/repos/banana/banana/bin/Debug/netcoreapp3.1/banana.pdb
+/Users/johnhiller/repos/banana/banana/obj/Debug/netcoreapp3.1/banana.csproj.AssemblyReference.cache
+/Users/johnhiller/repos/banana/banana/obj/Debug/netcoreapp3.1/banana.AssemblyInfoInputs.cache
+/Users/johnhiller/repos/banana/banana/obj/Debug/netcoreapp3.1/banana.AssemblyInfo.cs
+/Users/johnhiller/repos/banana/banana/obj/Debug/netcoreapp3.1/banana.csproj.CoreCompileInputs.cache
+/Users/johnhiller/repos/banana/banana/obj/Debug/netcoreapp3.1/banana.dll
+/Users/johnhiller/repos/banana/banana/obj/Debug/netcoreapp3.1/banana.pdb
+/Users/johnhiller/repos/banana/banana/obj/Debug/netcoreapp3.1/banana.genruntimeconfig.cache

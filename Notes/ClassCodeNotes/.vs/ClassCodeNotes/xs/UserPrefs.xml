@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2EF5FFF5-8796-401C-AB85-03CC2FA01760}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassCodeNotes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassCodeNotes/EmptyClass.cs">
+    <Files>
+      <File FileName="ClassCodeNotes/Program.cs" Line="131" Column="45" />
+      <File FileName="ClassCodeNotes/EmptyClass.cs" Line="43" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassCodeNotes" expanded="True">
+            <Node name="ClassCodeNotes" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
